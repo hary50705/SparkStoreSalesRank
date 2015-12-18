@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparkStoreSalesRank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkStoreSalesRank_jar</output-path>
+    <root id="archive" name="SparkStoreSalesRank.jar">
+      <element id="module-output" name="SparkStoreSalesRank" />
+      <element id="extracted-dir" path="D:/File/scala/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/File/scala/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/File/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/File/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/File/scala/lib/scala-swing.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
